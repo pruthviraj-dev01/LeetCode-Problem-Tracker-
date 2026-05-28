@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LeetCodeTracker/1.0.0": {
+        "runtime": {
+          "LeetCodeTracker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeetCodeTracker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
